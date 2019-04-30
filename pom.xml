@@ -62,7 +62,7 @@
             <artifactId>jstl</artifactId>  
         </dependency>  
   
-        <!--添加对tomcat的支持-->  
+        <!--添加对tomcat的支持，war包-->
         <dependency>  
            <groupId>org.springframework.boot</groupId>  
            <artifactId>spring-boot-starter-tomcat</artifactId>  
